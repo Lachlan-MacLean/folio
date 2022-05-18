@@ -3,14 +3,14 @@
 You can use the [editor on GitHub](https://github.com/Lachlan-MacLean/folio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+<iframe src="https://www.desmos.com/calculator/ekj5tt189t?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
-<iframe src="https://www.desmos.com/calculator/ekj5tt189t?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
+
 # Header 1
 ## Header 2
 ### Header 3
